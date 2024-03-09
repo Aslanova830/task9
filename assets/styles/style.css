@@ -1,0 +1,69 @@
+* {
+  padding: 0;
+  margin: 0;
+  line-height: 100%;
+}
+
+.logo {
+  height: 100vh;
+  background-color: rgb(4, 9, 45);
+  text-align: center;
+  position: relative;
+}
+.logo .content {
+  margin-top: 272px;
+}
+
+.foto {
+  height: 100vh;
+  background-color: rgb(4, 9, 45);
+  text-align: center;
+  position: relative;
+}
+.foto .content {
+  margin-top: 100px;
+}
+
+.hero {
+  height: 100vh;
+  background-color: rgb(4, 9, 45);
+  position: relative;
+  color: rgb(217, 219, 233);
+  padding: 20px;
+}
+.hero .title {
+  line-height: 34px;
+}
+.hero .title .content {
+  display: flex;
+  gap: 10px;
+}
+
+.primary {
+  height: 100vh;
+  background-color: rgb(4, 9, 45);
+  text-align: center;
+  position: relative;
+  color: rgb(217, 219, 233);
+  line-height: 60px;
+  size: 32px;
+  font-weight: 700px;
+}
+.primary .text {
+  padding-top: 264px;
+}
+
+.heroo {
+  height: 100vh;
+  background-color: rgb(4, 9, 45);
+  position: relative;
+  color: rgb(217, 219, 233);
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 34px;
+}
+
+.hero-content {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */
